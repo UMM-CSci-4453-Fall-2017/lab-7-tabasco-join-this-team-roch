@@ -1,4 +1,3 @@
-
 app.controller("MainController", function($scope){
   $scope.people = [
     { id: 0, name: 'Leon', music: [ 'Rock', 'Metal', 'Dubstep', 'Electro' ], live: true },
